@@ -21,3 +21,12 @@
 - Run <code>php artisan migrate</code> command
 - Run <code>php artisan test</code> to test the api
 - Open the project to see your properties titles
+
+
+## Class to see
+
+- /Users/emejias/Documents/dev/easybroker/config/easybroker.php
+- app/Services/EasyBrokerService.php
+- tests/Unit/EasyBrokerServiceTest.php
+- app/Http/Controllers/PropertyController.php
+- resources/views/welcome.blade.php
