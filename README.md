@@ -23,7 +23,7 @@
 - Open the project to see your properties titles
 
 
-## Class to see
+## Files to see
 
 - config/easybroker.php
 - app/Services/EasyBrokerService.php
