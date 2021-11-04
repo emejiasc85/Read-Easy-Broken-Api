@@ -16,8 +16,8 @@
 - Run  <code>composer install</code>
 - Create a local database
 - Create a <code>.env</code> File, based on <code>.env.example</code> file
+- Add EASYBROKER_API_KEY to .env file with your easy broken api token
 - Config <code>.env</code> File
 - Run <code>php artisan migrate</code> command
 - Run <code>php artisan test</code> to test the api
-
-## documents
+- Open the project to see your properties titles
