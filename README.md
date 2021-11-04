@@ -25,7 +25,7 @@
 
 ## Class to see
 
-- /Users/emejias/Documents/dev/easybroker/config/easybroker.php
+- config/easybroker.php
 - app/Services/EasyBrokerService.php
 - tests/Unit/EasyBrokerServiceTest.php
 - app/Http/Controllers/PropertyController.php
